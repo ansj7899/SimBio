@@ -28,3 +28,4 @@ sub Skriv{
 	return "$TabText\n";
 }
 print "hej Per\n";
+print "hejdå folk\n";
